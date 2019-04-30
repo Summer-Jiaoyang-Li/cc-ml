@@ -1,0 +1,4 @@
+.DS_Store
+data/
+.ipynb_checkpoints/
+project/processed_data.pkl
